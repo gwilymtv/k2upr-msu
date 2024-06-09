@@ -1,0 +1,312 @@
+{
+    "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "pack": "The Legend of Zelda: A Link to the Past - Unrealistic Project Roadmap",
+    "artist": "HALLEY LABS",
+    "url": "https://lapfox.bandcamp.com/album/unrealistic-project-roadmap",
+    "normalization": -18,
+    "output_prefix": "k2upr",
+    "tracks": [
+        {
+            "track_number": 1,
+            "title": "Link to the Past",
+            "file": "K² - Unrealistic Project Roadmap - 01 Meeting the Sphere.flac",
+            "trim_start": 1410433
+        },
+        {
+            "track_number": 2,
+            "title": "Hyrule Field",
+            "file": "K² - Unrealistic Project Roadmap - 02 A Place Kind of Like a Home.flac",
+            "trim_start": 466260,
+            "loop": 1848653
+        },
+        {
+            "track_number": 3,
+            "title": "Time of Falling Rain",
+            "file": "K² - Unrealistic Project Roadmap - 04 No More Fighting!.flac",
+            "trim_start": 50230,
+            "loop": 935872,
+            "trim_end": 1821133
+        },
+        {
+            "track_number": 5,
+            "title": "Forest of Mystery",
+            "file": "K² - Unrealistic Project Roadmap - 15 Fairies of Floating Forest.flac"
+        },
+        {
+            "track_number": 6,
+            "title": "Seal of Seven Maidens",
+            "file": "K² - Unrealistic Project Roadmap - 04 No More Fighting!.flac",
+            "loop": 935872,
+            "trim_end": 1821133
+        },
+        {
+            "track_number": 7,
+            "title": "Kakariko Village",
+            "file": "K² - Unrealistic Project Roadmap - 11 Snail Cove Cave.flac",
+            "loop": 2548035,
+            "trim_end": 6040791
+        },
+        {
+            "track_number": 8,
+            "title": "Dimensional Shift",
+            "file": "K² - Unrealistic Project Roadmap - 03 Battle Against a Fucked Up Opponent.flac",
+            "normalization": -24,
+            "trim_start": 6022645
+        },
+        {
+            "track_number": 9,
+            "file": "K² - Unrealistic Project Roadmap - 08 Battle Against Laughing Satellite.flac",
+            "loop": 2764949,
+            "trim_end": 5990591
+        },
+        {
+            "track_number": 11,
+            "title": "Beginning of the Journey",
+            "file": "K² - Unrealistic Project Roadmap - 01 Meeting the Sphere.flac",
+            "trim_start": 1291140,
+            "loop": 1714860,
+            "trim_end": 4037279
+        },
+        {
+            "track_number": 12,
+            "file": "K² - Unrealistic Project Roadmap - 06 Battle Against a Common Guy.flac",
+            "loop": 9974,
+            "trim_end": 1453808
+        },
+        {
+            "track_number": 13,
+            "title": "Dark Mountain Forest",
+            "file": "K² - Unrealistic Project Roadmap - 08 Battle Against Laughing Satellite.flac",
+            "loop": 2764949,
+            "trim_end": 5990591
+        },
+        {
+            "track_number": 14,
+            "file": "K² - Unrealistic Project Roadmap - 06 Battle Against a Common Guy.flac",
+            "loop": 9974,
+            "trim_end": 1453808
+        },
+        {
+            "track_number": 16,
+            "title": "Majestic Castle",
+            "file": "K² - Unrealistic Project Roadmap - 13 Set Course for Anywhere.flac",
+            "loop": 50781,
+            "trim_end": 4700705
+        },
+        {
+            "track_number": 17,
+            "file": "K² - Unrealistic Project Roadmap - 07 Temple of Experts.flac",
+            "loop": 2822915
+        },
+        {
+            "track_number": 18,
+            "title": "Dank Dungeons",
+            "file": "K² - Unrealistic Project Roadmap - 12 Battle Against I So PO'd.flac",
+            "trim_start": 322749,
+            "loop": 1811874,
+            "trim_end": 5064211
+        },
+        {
+            "track_number": 19,
+            "file": "K² - Unrealistic Project Roadmap - 19 Battle Against an Inscrutable Machine.flac",
+            "trim_start": 7358372,
+            "trim_end": 7891977
+        },
+        {
+            "track_number": 20,
+            "title": "Safety In the Sanctuary",
+            "file": "K² - Unrealistic Project Roadmap - 20 Spacewalk.flac",
+            "trim_start": 1652554,
+            "trim_end": 3127104
+        },
+        {
+            "track_number": 21,
+            "file": "K² - Unrealistic Project Roadmap - 03 Battle Against a Fucked Up Opponent.flac",
+            "loop": 784585,
+            "trim_end": 6021301
+        },
+        {
+            "track_number": 22,
+            "file": "K² - Unrealistic Project Roadmap - 05 Another Exhibit.flac",
+            "trim_start": 322302,
+            "trim_end": 4273580
+        },
+        {
+            "track_number": 24,
+            "title": "Dank Dungeons",
+            "file": "K² - Unrealistic Project Roadmap - 12 Battle Against I So PO'd.flac",
+            "trim_start": 322749,
+            "loop": 1811874,
+            "trim_end": 5064211
+        },
+        {
+            "track_number": 27,
+            "title": "The Goddess Appears",
+            "file": "K² - Unrealistic Project Roadmap - 20 Spacewalk.flac",
+            "loop": 4916,
+            "trim_end": 1479746
+        },
+
+        {
+            "track_number": 30,
+            "file": "K² - Unrealistic Project Roadmap - 19 Battle Against an Inscrutable Machine.flac",
+            "loop": 0,
+            "normalization": -24,
+            "trim_end": 255414
+        },
+        {
+            "track_number": 31,
+            "file": "K² - Unrealistic Project Roadmap - 19 Battle Against an Inscrutable Machine.flac",
+            "trim_start": 432547,
+            "loop": 512256,
+            "trim_end": 5310085
+        },
+        {
+            "track_number": 32,
+            "file": "K² - Unrealistic Project Roadmap - 01 Meeting the Sphere.flac",
+            "trim_start": 1291140,
+            "loop": 1714860,
+            "trim_end": 4037279
+        },
+
+        {
+            "track_number": 36,
+            "file": "K² - Unrealistic Project Roadmap - 05 Another Exhibit.flac",
+            "trim_start": 322302,
+            "trim_end": 4273580
+        },
+        {
+            "track_number": 38,
+            "file": "K² - Unrealistic Project Roadmap - 09 Sea Life Greets You.flac",
+            "loop": 3763
+        },
+        {
+            "track_number": 40,
+            "file": "K² - Unrealistic Project Roadmap - 17 Purple Bog.flac",
+            "loop": 1418162,
+            "trim_end": 7799321
+        },
+        {
+            "track_number": 45,
+            "file": "K² - Unrealistic Project Roadmap - 05 Another Exhibit.flac",
+            "trim_start": 322302,
+            "trim_end": 4273580
+        },
+
+        {
+            "track_number": 47,
+            "file": "K² - Unrealistic Project Roadmap - 06 Battle Against a Common Guy.flac",
+            "loop": 9974,
+            "trim_end": 1453808
+        },
+        {
+            "track_number": 48,
+            "file": "K² - Unrealistic Project Roadmap - 03 Battle Against a Fucked Up Opponent.flac",
+            "loop": 784585,
+            "trim_end": 6021301
+        },
+        {
+            "track_number": 49,
+            "file": "K² - Unrealistic Project Roadmap - 08 Battle Against Laughing Satellite.flac",
+            "loop": 2764949,
+            "trim_end": 5990591
+        },
+        {
+            "track_number": 50,
+            "file": "K² - Unrealistic Project Roadmap - 16 Battle Against Beaker Buddy.flac"
+        },
+        {
+            "track_number": 51,
+            "file": "K² - Unrealistic Project Roadmap - 10 Battle Against Legally Distinct Jellyfish.flac",
+            "loop": 1575405,
+            "trim_end": 4554725
+        },
+        {
+            "track_number": 52,
+            "file": "K² - Unrealistic Project Roadmap - 10 Battle Against Legally Distinct Jellyfish.flac",
+            "loop": 1575405,
+            "trim_end": 4554725
+        },
+        {
+            "track_number": 53,
+            "file": "K² - Unrealistic Project Roadmap - 16 Battle Against Beaker Buddy.flac"
+        },
+        {
+            "track_number": 54,
+            "file": "K² - Unrealistic Project Roadmap - 03 Battle Against a Fucked Up Opponent.flac",
+            "loop": 784585,
+            "trim_end": 6021301
+        },
+        {
+            "track_number": 55,
+            "file": "K² - Unrealistic Project Roadmap - 14 Battle Against a Photorealistic Battleship.flac",
+            "loop": 937412,
+            "trim_end": 7181911
+        },
+        {
+            "track_number": 56,
+            "file": "K² - Unrealistic Project Roadmap - 03 Battle Against a Fucked Up Opponent.flac",
+            "loop": 784585,
+            "trim_end": 6021301
+        },
+        {
+            "track_number": 57,
+            "file": "K² - Unrealistic Project Roadmap - 14 Battle Against a Photorealistic Battleship.flac",
+            "loop": 937412,
+            "trim_end": 7181911
+        },
+        {
+            "track_number": 58,
+            "file": "K² - Unrealistic Project Roadmap - 08 Battle Against Laughing Satellite.flac",
+            "loop": 2764949,
+            "trim_end": 5990591
+        },
+
+        {
+            "track_number": 4,
+            "file": "K² - Unrealistic Project Roadmap - 11 Snail Cove Cave.flac",
+            "loop": 2548035,
+            "trim_end": 6040791
+        },
+
+        { "track_number": 10, "file": "K² - Unrealistic Project Roadmap - 22 You're So Moonish....flac", "loop": 1143996 },
+
+        { "track_number": 15, "file": "K² - Unrealistic Project Roadmap - 22 You're So Moonish....flac", "loop": 1143996 },
+
+        {
+            "track_number": 23,
+            "file": "K² - Unrealistic Project Roadmap - 18 Darkwalk.flac",
+            "trim_start": 0,
+            "trim_end": 1973569
+        },
+
+        { "track_number": 25, "file": "K² - Unrealistic Project Roadmap - 22 You're So Moonish....flac", "loop": 1143996 },
+        { "track_number": 26, "file": "K² - Unrealistic Project Roadmap - 22 You're So Moonish....flac", "loop": 1143996 },
+
+        {
+            "track_number": 28,
+            "file": "K² - Unrealistic Project Roadmap - 18 Darkwalk.flac",
+            "trim_start": 0,
+            "trim_end": 1973569
+        },
+        {
+            "track_number": 29,
+            "file": "K² - Unrealistic Project Roadmap - 18 Darkwalk.flac",
+            "trim_start": 2010540
+        },
+
+        {
+            "track_number": 33,
+            "file": "K² - Unrealistic Project Roadmap - 21 Staff Roll.flac",
+            "loop": 18413,
+            "trim_end": 4878174
+        },
+        {
+            "track_number": 34,
+            "file": "K² - Unrealistic Project Roadmap - 21 Staff Roll.flac",
+            "loop": 18413,
+            "trim_end": 4878174
+        }
+    ]
+}
